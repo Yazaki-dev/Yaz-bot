@@ -36,9 +36,4 @@ YazBot is organized into modular command categories. Each folder contains comman
 | `troll`         | Prank / joke commands (use ethically & sparingly)  |
 
 ---
-
-## Installation
-
-1. **Clone or download** this repository (git clone)
-2. cd YazBot
-3. node index.js
+## JOIN THE DISCORD FOR PAYMENT INFO
